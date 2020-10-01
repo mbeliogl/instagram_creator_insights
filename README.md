@@ -93,7 +93,7 @@
 >    - Story Link 
 
 ```python
-			#Story objects metrics will return error code 10 if < 5
+		#Story objects metrics will return error code 10 if < 5
   		#(ERROR CODE 10) Not enough viewers for the media to show insights
 ```
 
